@@ -1,0 +1,33 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\bin\Debug\Practice Reminder.exe.config
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\bin\Debug\Practice Reminder.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\bin\Debug\Practice Reminder.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\bin\Debug\Practice Reminder.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice_Reminder.Dialog1.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice_Reminder.Form1.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice_Reminder.Resources.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice Reminder.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice Reminder.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\Practice Reminder\obj\x86\Debug\Practice Reminder.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.exe.config
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.xml
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.xml
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\timawesomeness.Practice_Reminder.Dialog1.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\timawesomeness.Practice_Reminder.Dialog2.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\timawesomeness.Practice_Reminder.Form1.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\timawesomeness.Practice_Reminder.Resources.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.TrustInfo.xml
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.exe.manifest
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\Practice Reminder.application
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.exe.manifest
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\bin\Debug\Practice Reminder.application
+C:\Users\Tim\documents\visual studio 2010\Projects\Practice Reminder\Practice Reminder\obj\x86\Debug\timawesomeness.Practice_Reminder.AboutBox1.resources
